@@ -5,4 +5,4 @@ this is the <b>readme</b>
 
 everything new - this is project 1
 
-project 1 looks good - one more correction
+project 1 looks good - bugs fixed
