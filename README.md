@@ -8,4 +8,4 @@ end of text
 first change, second change,
 third change
 
-should fix the bug.
+should fix another bug.
