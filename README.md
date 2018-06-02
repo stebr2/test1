@@ -3,9 +3,6 @@ just testing
 
 this is the <b>readme</b>
 
-end of text
+everything new - this is project 1
 
-first change, second change,
-third change
-
-should fix another bug.
+project 1 looks good - bugs fixed
