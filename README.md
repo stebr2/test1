@@ -1,6 +1,4 @@
 # test1
 just testing
 
-this is the <b>readme</b>
-
-Project 2 - part 2
+This is the <b>readme</b> just for testing.
